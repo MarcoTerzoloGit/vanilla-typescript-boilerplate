@@ -1,4 +1,5 @@
 import { RainbowText } from './src/web-components/hello-world-raw-webcomponent/rainbow-text';
+import './src/web-components/svg-icon/svg-icon';
 
 import './style.scss';
 
